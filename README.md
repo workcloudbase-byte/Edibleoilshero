@@ -13,16 +13,14 @@ Responsive static storefront for **Edible Mart®™**, based on the supplied Wha
 - Wholesale & supply + shopping & retail information
 - Address: Ward No - 05, Adani Wilmar Limited, Oil Terminal Road, Atharabanki, Paradip, Jagatsinghpur, Odisha, India, 754142
 - Hours shown: Sunday closed; Monday-Saturday 9:00 AM-9:00 PM
-- Google Maps link
+- Google Maps section
 - Supplied Edible Mart profile and event imagery
+- Pouch / Bottle / Tin / Jar filters
 
-## Catalogue details shown in the supplied screenshots
-- Fortune Sunflower Sunlite Refined Oil — 1.5L Tin — ₹1,350 (shown from ₹2,550)
-- Fortune Rice Bran Health Physically Refined Oil — 1.5L Tin — ₹1,350 (shown from ₹2,550)
-- Fortune Premium Kachi Ghani Pure Mustard Oil — 1.5L Tin — ₹1,350 (shown from ₹2,550)
-- Fortune Soya Health Refined Soyabean Oil — 1.5L Tin — ₹1,350 (shown from ₹2,550)
-- Fortune Sunflower Sunlite Refined Oil — 1.5L Jar — ₹1,275 (shown from ₹2,450)
-- Fortune Premium Kachi Ghani Pure Mustard Oil — 1.5L Jar — ₹1,275 (shown from ₹2,450)
+## Catalogue details visible in the supplied screenshots
+The newly supplied catalogue screenshots show **18 distinct product variants** across four categories: Soyabean, Mustard, Sunflower and Rice Bran. The visible displayed prices include ₹1,104, ₹1,275, ₹1,280, ₹1,350 and ₹2,688, with crossed-out catalogue prices shown alongside them.
+
+The current supplied ZIP itself contains six standalone product-image assets plus the profile/event imagery. The website uses the supplied package assets and the catalogue information visible in the screenshots. Four additional product photos would be needed to substantiate a separate 22-photo set; they are not present as distinct product images in the supplied package/screenshots currently available.
 
 Prices, availability and delivery charges should be reconfirmed with Edible Mart before accepting orders.
 
